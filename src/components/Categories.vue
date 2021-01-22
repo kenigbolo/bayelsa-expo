@@ -28,7 +28,7 @@
             >
               <i class="fas fa-layer-group text-xl"></i>
             </div>
-            <h3 class="text-3xl font-semibold">Project Categories</h3>
+            <h3 class="text-3xl font-semibold">Categories</h3>
             <ul class="list-none mt-6">
               <li class="py-2">
                 <div class="flex items-center">

@@ -19,11 +19,11 @@
         ></polygon>
       </svg>
     </div>
-    <div class="container mx-auto px-4 lg:pt-24 lg:pb-64">
+    <div class="container mx-auto px-4 mb-4 lg:pt-24 lg:pb-64">
       <div class="flex flex-wrap text-center justify-center">
         <div class="w-full lg:w-6/12 px-4">
           <h2 class="text-4xl font-semibold text-white">
-            Project Entry Level
+            Entry Levels
           </h2>
           <p class="text-lg leading-relaxed mt-4 mb-4 text-gray-500">
             The Bayelsa Expo Festival of Science and Technology aims to provide

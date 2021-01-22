@@ -6,6 +6,7 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 Vue.config.productionTip = false
 
 const routes = {
+  '/': Landing,
   '/landing': Landing
 }
 

@@ -4,7 +4,7 @@
       <div class="flex flex-wrap justify-center lg:-mt-64 -mt-48">
         <div class="w-full px-4">
           <div
-            class="flex flex-wrap w-full m-auto items-center justify-center bg-gray-300 rounded-lg"
+            class="flex flex-wrap w-full m-auto items-center justify-center bg-white rounded-lg"
           >
             <div class="flex-auto p-5 lg:p-10">
               <h4 class="text-2xl font-semibold">

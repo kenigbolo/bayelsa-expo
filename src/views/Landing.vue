@@ -10,6 +10,8 @@
       <VisionComponent />
       <!-- Categories -->
       <CategoriesComponent />
+      <!-- Sponsors -->
+      <SponsorsComponent />
       <!-- Team -->
       <TeamComponent />
       <!-- Project Levels -->
@@ -29,6 +31,7 @@ import FooterComponent from "../components/Footer.vue";
 import VisionComponent from "../components/Vision.vue";
 import MissionComponent from "../components/Mission.vue";
 import RegisterComponent from "../components/Register.vue"
+import SponsorsComponent from "../components/Sponsors.vue"
 import CategoriesComponent from "../components/Categories.vue"
 export default {
   name: "landing-page",
@@ -41,6 +44,7 @@ export default {
     VisionComponent,
     MissionComponent,
     RegisterComponent,
+    SponsorsComponent,
     CategoriesComponent,
   },
 };
