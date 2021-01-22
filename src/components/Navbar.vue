@@ -56,7 +56,7 @@
           <li>
             <a
               target="_blank"
-              href="https://chat.whatsapp.com/HNAi5WCUH1uChBGlWCdHh5&sa=D&ust=1611326032977000&usg=AFQjCNHXbYllL8WujykG-ywEgwUsbUxWdg"
+              href="https://chat.whatsapp.com/HNAi5WCUH1uChBGlWCdHh5"
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
             >
               <i class="lg:text-gray-300 text-gray-500 fab fa-whatsapp text-lg leading-lg"></i>

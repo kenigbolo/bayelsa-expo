@@ -37,7 +37,7 @@
             </a>
             <a
               target="_blank"
-              href="https://chat.whatsapp.com/HNAi5WCUH1uChBGlWCdHh5&sa=D&ust=1611326032977000&usg=AFQjCNHXbYllL8WujykG-ywEgwUsbUxWdg"
+              href="https://chat.whatsapp.com/HNAi5WCUH1uChBGlWCdHh5"
               class="bg-green-400 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
               type="button"
             >
