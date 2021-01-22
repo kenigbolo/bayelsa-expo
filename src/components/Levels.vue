@@ -71,7 +71,7 @@
             Senior Secondary Level
           </h5>
           <p class="mt-2 mb-4 text-gray-500">
-            This level is open to senior secondary school (JSS) 1 – 3 students.
+            This level is open to senior secondary school (SSS) 1 – 3 students.
           </p>
         </div>
       </div>
