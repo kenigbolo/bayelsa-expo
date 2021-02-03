@@ -21,7 +21,7 @@
               style="max-width: 120px;"
             />
             <div class="pt-6 text-center">
-              <h5 class="text-xl font-bold">Engr (Dr) Michael Tarerefa</h5>
+              <h5 class="text-xl font-bold">Michael Tarerefa</h5>
               <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
                 Convener / Judges Coordinator
               </p>
@@ -36,7 +36,7 @@
                 </a>
                 <a
                   target="_blank"
-                  href="https://www.facebook.com/matthew.ayibakuro"
+                  href=""
                   class="bg-blue-400 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
                   type="button"
                 >
@@ -56,7 +56,7 @@
             />
             <div class="pt-6 text-center">
               <h5 class="text-xl font-bold">
-                Engr (Dr) Ayibapreye Benjamin
+                Ayibapreye Benjamin
               </h5>
               <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
                 Program Director
@@ -72,7 +72,7 @@
                 </a>
                 <a
                   target="_blank"
-                  href="https://www.facebook.com/matthew.ayibakuro"
+                  href=""
                   class="bg-blue-400 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
                   type="button"
                 >
@@ -108,7 +108,7 @@
                 </a>
                 <a
                   target="_blank"
-                  href="https://www.facebook.com/matthew.ayibakuro"
+                  href=""
                   class="bg-blue-400 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
                   type="button"
                 >
@@ -128,7 +128,7 @@
             />
             <div class="pt-6 text-center">
               <h5 class="text-xl font-bold">
-                Engr Abhon Adus
+                Abhon Adus
               </h5>
               <p class="mt-1 p-3 text-sm text-gray-500 uppercase font-semibold">
                 Secretary
@@ -144,7 +144,7 @@
                 </a>
                 <a
                   target="_blank"
-                  href="https://www.facebook.com/matthew.ayibakuro"
+                  href=""
                   class="bg-blue-400 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
                   type="button"
                 >
@@ -163,7 +163,7 @@
               style="max-width: 120px;"
             />
             <div class="pt-6 text-center">
-              <h5 class="text-xl font-bold">Barr (Dr) Matthew Ayibakuro</h5>
+              <h5 class="text-xl font-bold">Matthew Ayibakuro</h5>
               <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
                 Legal Advisor / Lead, Sponsorship Committee
               </p>
@@ -178,7 +178,7 @@
                 </a>
                 <a
                   target="_blank"
-                  href="https://www.facebook.com/matthew.ayibakuro"
+                  href=""
                   class="bg-blue-400 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
                   type="button"
                 >
