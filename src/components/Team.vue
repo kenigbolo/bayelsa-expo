@@ -92,7 +92,7 @@
             />
             <div class="pt-6 text-center">
               <h5 class="text-xl font-bold">
-                Mrs Ebidenyefa Tarila Nikade
+                Ebidenyefa Tarila Nikade
               </h5>
               <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
                 Treasurer
