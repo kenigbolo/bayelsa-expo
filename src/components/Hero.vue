@@ -23,8 +23,11 @@
               March 5th - 6th, 2021
             </h2>
             <h3 class="text-white font-semibold text-xl py-2">
-              Gabriel Okara Cultural Center, Yenagoa, Bayelsa State
+              Bayelsa Tech Hub, 4th Floor Transparency Plaza
             </h3>
+            <h4 class="text-white font-semibold text-lg py-2">
+              Ox-bow Lake Road, Yenagoa, Bayelsa state
+            </h4>
             <p class="mt-4 text-lg text-gray-300">
               Bayelsa Expo is designed to inspire and prepare young Bayelsans to
               succeed, lead and innovate in Science, Technology, Engineering,
